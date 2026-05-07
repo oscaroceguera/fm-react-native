@@ -1,0 +1,3 @@
+- node version 20
+- yarn version 1.22.22
+- Course Site: https://kadikraman.github.io/react-native-v3-course/
